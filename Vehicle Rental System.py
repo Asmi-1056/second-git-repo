@@ -1,4 +1,4 @@
-#Vehicle Rental System
+#Vehicle Rental System.
 
 #Creates a class as Vehicle
 class Vehicle:
