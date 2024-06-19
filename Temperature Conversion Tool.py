@@ -1,5 +1,3 @@
-#Asmi Purarkar
- 
 #Temperature Conversion Tool
 def cel(n):
     temp=(n-32)*5/9

@@ -1,4 +1,3 @@
-#Asmi Purarkar
 #Basic Calculator
 
 def Add(a,b):
