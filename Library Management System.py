@@ -1,5 +1,3 @@
-#Asmi Purarkar
-
 #Library Management System
 
 # Define a book
